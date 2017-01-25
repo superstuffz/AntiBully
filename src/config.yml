@@ -4,14 +4,14 @@ server_name: ServerName
 
 server_ip: mc.serverip.com
 
-swear_block: true
+swear_block: false
 bully_block: true
-swear_deny_message: AntiBully has blocked your message as you have swore in it, Please reffrain from swearing!
+swear_deny_message: AntiBully has blocked your message as you have said blocked UN
 bully_deny_message: AntiBully has blocked your message as you have said a blocked word!
 
 #They can bypass all blocks (Trusted staff only)
 staff:
-    - StaffMember1
+    - xBarkPuppy1
     - StaffMember2
     - StaffMember3    
 
@@ -23,4 +23,5 @@ bully_muted:
 
 #Blocked words
 blocked_words:
-    - Word_1
+    - Nigga 
+    - Nigger
